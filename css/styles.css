@@ -1,0 +1,17 @@
+body{background-color: powderblue;}
+h1{
+  color: red;
+  font-size: 100px;
+  font-style: italic;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+h3{
+  font-size: 30px;
+  font-style: italic;
+}
